@@ -1,0 +1,18 @@
+body {
+			background-color: rgb(0, 191, 255);
+		}
+		h1 {
+			color:blue;
+			font-family: game of squids;
+		}
+
+		#info {
+			color:rgb(0, 255, 242);
+			background-color:rgb(0, 30, 255);
+			font-family: cursive;
+			padding:2px;
+
+		}
+		#para-2 {
+			padding-top: 10px;
+		}
