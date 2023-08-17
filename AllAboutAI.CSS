@@ -1,7 +1,7 @@
 body {
 			background-color: rgb(0, 191, 255);
 		}
-		h1 {
+		#AI {
 			color:blue;
 			font-family: game of squids;
 		}
@@ -15,7 +15,4 @@ body {
 		}
 		#para-2 {
 			padding-top: 10px;
-		}
-		#moreAI {
-			font-family: aquire;
 		}
