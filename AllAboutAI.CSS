@@ -15,7 +15,7 @@ body {
 			letter-spacing: 2px;
 			border-radius: 10px;
 			border: 8px ridge rgb(107,66,255);
-			box-shadow: 7px 7px 100px rgb(132, 66, 245);
+			box-shadow: 7px 7px 200px rgb(132, 66, 245);
 		}
 		#para-2 {
 			padding-top: 10px;
@@ -26,11 +26,12 @@ body {
 			letter-spacing: 2px;
 			color:rgb(0, 255, 242);
 			border-radius: 10px;
-			box-shadow: 7px 7px 100px rgb(132, 66, 245);
+			box-shadow: 7px 7px 200px rgb(132, 66, 245);
 			border: 8px ridge rgb(157, 0, 255);
 
 		}
 		#ai-img {
+
 			border: 8px ridge rgb(107,66,255);
 
 		}
